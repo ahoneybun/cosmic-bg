@@ -1,4 +1,10 @@
-cosmic-bg (0.1.0) UNRELEASED; urgency=medium
+cosmic-bg (0.1.0ubuntu1) noble; urgency=medium
+
+  * Update to noble
+
+ -- Aaron Honeycutt <aaron@system76.com>  Fri, 22 Mar 2024 14:58:31 -0600
+
+cosmic-bg (0.1.0) jammy; urgency=medium
 
   * Initial release.
 
